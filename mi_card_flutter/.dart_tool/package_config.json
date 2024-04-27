@@ -50,6 +50,12 @@
       "languageVersion": "3.2"
     },
     {
+      "name": "flutter_lints",
+      "rootUri": "file:///Users/akdas/.pub-cache/hosted/pub.dev/flutter_lints-3.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///Users/akdas/Desktop/flutter/packages/flutter_test",
       "packageUri": "lib/",
@@ -72,6 +78,12 @@
       "rootUri": "file:///Users/akdas/.pub-cache/hosted/pub.dev/leak_tracker_testing-2.0.1",
       "packageUri": "lib/",
       "languageVersion": "3.1"
+    },
+    {
+      "name": "lints",
+      "rootUri": "file:///Users/akdas/.pub-cache/hosted/pub.dev/lints-3.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
     },
     {
       "name": "matcher",
@@ -152,13 +164,13 @@
       "languageVersion": "3.0"
     },
     {
-      "name": "mi_card",
+      "name": "mi_card_flutter",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.3"
     }
   ],
-  "generated": "2024-04-27T23:12:28.222673Z",
+  "generated": "2024-04-27T23:24:46.266390Z",
   "generator": "pub",
   "generatorVersion": "3.3.4"
 }
