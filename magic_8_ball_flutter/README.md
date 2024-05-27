@@ -1,6 +1,6 @@
-# dicee_flutter
+# magic_8_ball_flutter
 
-Flutter Course Proj 3
+A new Flutter project.
 
 ## Getting Started
 
